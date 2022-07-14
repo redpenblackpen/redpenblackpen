@@ -20,6 +20,7 @@ You have stayed on my page for:
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 * <span title="Studies">📖</span>: <span title="Programming">💻</span> <span title="Mathematics">➗</span> <span title="Social Science">📚</span> <span title="Philosophy">🕊️</span> <span title="Psychology">🧠</span> <span title="Electronics">📱</span>
 
 <p align="center">
