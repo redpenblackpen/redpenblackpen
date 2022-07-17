@@ -13,7 +13,7 @@ You have stayed on my page for:
 * <span title="Residence">📌</span>: <span title="Philippines">Ph
 * <span title="Languages">👄</span>: [Taglish](https://tl.wikipedia.org/wiki/Unang_Pahina "Tagalog-English")
 * <span title="Email">📧</span>: dlaregareleg2001@gmail.com
-* <span title="Website">💰</span>: 09612710596 (<span title="redirecting"></span> give me a milktea)
+* <span title="Website">💰</span>: 09612710596 (<span title="redirecting"></span> Gcash)
 * <span title="I use">🧰</span>: <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
