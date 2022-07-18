@@ -1,5 +1,5 @@
 <h3 align="center">
-Welcome!
+Hello World!
 </h3>
 
 <p align="center">
@@ -10,19 +10,32 @@ You have stayed on my page for:
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
 
-* <span title="Residence">📌</span>: <span title="Philippines">Ph
-* <span title="Languages">👄</span>: [Taglish](https://tl.wikipedia.org/wiki/Unang_Pahina "Tagalog-English")
-* <span title="Email">📧</span>: dlaregareleg2001@gmail.com
-* <span title="Website">💰</span>: 09612710596 (<span title="redirecting"></span> Gcash)
-* <span title="I use">🧰</span>: <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-<a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
-<a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-* <span title="Studies">📖</span>: <span title="Programming">💻</span> <span title="Mathematics">➗</span> <span title="Social Science">📚</span> <span title="Philosophy">🕊️</span> <span title="Psychology">🧠</span> <span title="Electronics">📱</span>
 
-<p align="center">
-(move your mouse over the text/icons to view explanation)
-</p>
+<h3 align="left">About me</h3>
+
+##
+
+- 🧑 I’m busy person minding my own universe
+
+- 💻 I’m currently learning Programming
+
+- 💬 send anonymous message 👉 **link**
+
+- 📫 How to reach me **Soon**
+
+##
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redpenblackpen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redpenblackpen&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+ ##
+
+<div> 
+  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCUziJamBvK56w8nFE9Dk19w)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
