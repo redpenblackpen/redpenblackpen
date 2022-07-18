@@ -34,8 +34,8 @@ You have stayed on my page for:
  ##
 
 <div> 
-  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCUziJamBvK56w8nFE9Dk19w)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCUziJamBvK56w8nFE9Dk19w)" target="_blank"><img src="https://img.shields.io/badge/Github gist-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCUziJamBvK56w8nFE9Dk19w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://gist.github.com/redpenblackpen" target="_blank"><img src="https://img.shields.io/badge/Github gist-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
