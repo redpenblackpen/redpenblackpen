@@ -19,9 +19,9 @@ You have stayed on my page for:
 
 - 💻 I’m currently learning Programming
 
-- 💬 send anonymous message 👉 **link**
+- 📫 My Portfolio 👉 **Soon**
 
-- 📫 How to reach me **Soon**
+- 💬 How to reach me  **Soon**
 
 ##
 
